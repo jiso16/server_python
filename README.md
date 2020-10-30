@@ -2,9 +2,11 @@
 
 ## Flask 이용한 web server 구축
 
-- 이전에 crawling 하고 저장해둔 Database를 불러와서 web 서버에 띄우기
+- mysql에 있는 'crawling' 데이터베이스를 json type으로 받아오기
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTg4MTI1OV19
+eyJoaXN0b3J5IjpbLTk5MTQ5MDQ2XX0=
 -->
